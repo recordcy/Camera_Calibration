@@ -53,9 +53,12 @@ camera_calibration/
 ### 1️⃣ Extract Frames
 ```bash
 python extract_frames.py
+```
 ###2️⃣ Camera Calibration
 ```bash
 python camera_calibration.py
+```
 ###3️⃣ Distortion Correction
 ```bash
 python distortion_correction.py
+```
